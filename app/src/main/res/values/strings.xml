@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">TIC TAC TOE</string>
+    <string name="grid">our main grid</string>
+</resources>
